@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smelly-fella
-- 👀 I’m interested in ||  Gaming, VR, cosmology and coding
+- 👀 I’m interested in ||  Gaming, VR and coding
 - 🌱 I’m currently learning || C#
 - 💞️ I’m looking to collaborate on || gamejams
 - 📫 How to reach me || email (secret for now)
